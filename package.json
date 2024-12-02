@@ -1,9 +1,9 @@
 {
-  "name": "@jsonforms/vue-vanilla",
+  "name": "@estheban/jsonforms-vue-primevue",
   "version": "3.4.1",
-  "description": "Vue 3 Vanilla renderers for JSON Forms",
-  "repository": "https://github.com/eclipsesource/jsonforms",
-  "bugs": "https://github.com/eclipsesource/jsonforms/issues",
+  "description": "Vue 3 PrimeVue renderers for JSON Forms",
+  "repository": "https://github.com/estheban/jsonforms-vue-primevue",
+  "bugs": "https://github.com/estheban/jsonforms-vue-primevue/issues",
   "homepage": "http://jsonforms.io/",
   "license": "MIT",
   "publishConfig": {
